@@ -128,6 +128,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Volumes (Docker mounts, persistent storage, etc.)
+volumes/
+
 # Spyder project settings
 .spyderproject
 .spyproject
